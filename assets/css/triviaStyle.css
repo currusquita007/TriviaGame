@@ -1,0 +1,50 @@
+h1{
+	font-family: 'Shrikhand', cursive;
+	font-size: 40px;
+	color: white;
+}
+
+h2{
+	font-family: 'Shrikhand', cursive;
+	font-size: 24px;
+	color: #20315A;
+}
+
+h3{
+	font-family: 'Shrikhand', cursive;
+	font-size: 20px;
+	color: red;
+}
+
+span{
+	font-family: 'Shrikhand', cursive;
+	font-size: 20px;
+	color: #20315A;
+}
+
+#startGameButton {
+	width: 250px;
+	height: 100px;
+    border:solid #20315A;
+    margin-left:440px;
+    margin-top:100px;
+}
+
+
+.panel.primary {
+	border:solid #20315A;
+}
+
+.panel.heading {
+	background-color: #20315A ;  
+	color:white ; 
+	padding:10px
+}
+
+#display{
+  background: black;
+  color:green;
+  font-size: 120px;
+  font-family: monospace;
+  text-align: center;
+}
